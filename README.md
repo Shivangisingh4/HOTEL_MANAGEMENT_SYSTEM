@@ -1,11 +1,27 @@
-# Hotel-Management-Project
-Overview Of The Project
+# Hotel-Management-System-Using-Python-and-MySQL
 
-The objective of the project was to develop an easy to use and pocket friendly working alternative to other Hotel Management System. This desktop application uses MySQL as its backend to store, read and write to databases which stores tables which include;
-1)	Cust – Table
-2)	Rooms – Table 
-3)	Issued_rooms – Table.
-Below I have added a flow chart to summarizes how my application runs.
-![Flow Chart](https://github.com/CFS-Geek/Hotel-Managment-Project/blob/main/Hotel%20Managment/Flow_Chart.jpg?raw=true)
+## Table of Contents
 
-In simple words the whole application is running using python 3 and MySQL. I created a local database called Hotel_man for the purpose of storing all the data for example the tables, it is hosted locally and took me nearly no time to create it. The python GUI which I used is called Tkinter and is a free to use GUI module. 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+
+## Introduction
+
+The Sunset Hotel Management System is a Python-based project that allows you to manage guest and staff information, book rooms, and perform various tasks related to hotel management. The system interacts with a MySQL database to store and retrieve data.
+
+## Features
+
+- Add and manage guest information.
+- Book rooms for guests.
+- Search for guests and staff members.
+- Calculate the total bill for a guest's stay.
+- Generate reports for guests and staff.
+- And more.
+
+### Prerequisites
+
+- Python
+- MySQL
+- `mysql.connector` library 
